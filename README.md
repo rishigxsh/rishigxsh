@@ -36,7 +36,6 @@
 ║                     > whoami                                 ║
 ╚══════════════════════════════════════════════════════════════╝
 
-name:         Rishi
 role:         Full-Stack Engineer & AI/ML Builder
 location:     Building in the cloud ☁️
 
