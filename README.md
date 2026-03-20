@@ -216,10 +216,17 @@ always:           learning · building · shipping
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 GitHub Trophies
+## ⚡ Highlights
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rishigxsh&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+
+![](https://img.shields.io/badge/🎯%20YOLOv8%20mAP50-99.5%25-A960FE?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/🪙%20Cryptos%20Tracked-50-FF6B35?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/📈%20Stocks%20Monitored-25-00D4AA?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/🚀%20Projects%20Shipped-7-A960FE?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/🤖%20AI%20Score%20Range-0–100-FF6B35?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/☁️%20Deployments-Vercel%20%2B%20Railway-00D4AA?style=for-the-badge&labelColor=0D1117)
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
